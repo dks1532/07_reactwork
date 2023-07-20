@@ -1,0 +1,10 @@
+실행방법
+workspace에 폴더 넣고
+VSCode 에서 workspace 열기
+터미널 열고 -> 파워셀에서 cmd로 바꾸기
+터미널에서 실행하고자 하는 폴더로 들어가기
+node-modules 설치
+ex) D:/workspace > cd 01.my-app
+     D:/workspace/01.my-app > npm i
+           모듈 설치가 끝나면 실행 가능
+     D:/workspace/cd 01.my-app > npm start
